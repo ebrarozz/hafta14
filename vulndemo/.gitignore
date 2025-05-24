@@ -1,0 +1,16 @@
+# Sanal ortamlar
+#.venv/
+#venv/
+
+# Derlenmiş Python dosyaları
+__pycache__/
+*.pyc
+
+# IDE dosyaları
+.idea/
+
+# Veritabanı
+*.sqlite3
+
+# Çevre dosyaları
+.env
